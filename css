@@ -1,0 +1,63 @@
+body {margin:0;}
+
+}
+.navbar {
+  overflow: hiddden;
+  position: fixed;
+  top; 0;
+  color: #FFFFFF;
+  back-ground-color: #FFFFFFF;
+  width: 100;
+  list-style: none;
+  margin; auto;
+  padding:0;
+  taxt-aling;center
+}
+
+.navbar a {
+ display: inline-block;
+ colar:#9756CC;
+ tex-align: center;
+ padding: 14px 16px 4px;
+ text-decoration: none;
+ font-size 20px
+}
+
+.navbar a:active {
+ colar: black;
+}
+
+.navbar li { 
+ display:inline;
+}
+
+.navbar a:hover {
+ colar:black;
+}
+
+.main {
+ padding 16px;
+ margin-top: 30px;
+ hight: 1500px;
+}
+
+.img1 {
+ float:right;
+}
+
+.clearfix::after {
+ content: "";
+ clear; both;
+ display: table;
+}
+ 
+ .clearfix h1 {
+  font-size:3vw
+ }
+ 
+ .img scr="https://www.ixl.com/files/customdomains/logo338314613" {
+ img-algin: center;
+ }
+ 
+
+ 
